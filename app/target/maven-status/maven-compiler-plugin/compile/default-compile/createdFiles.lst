@@ -1,0 +1,7 @@
+com/game/store/app/model/Produto.class
+com/game/store/app/repository/CategoriaRepository.class
+com/game/store/app/repository/ProdutoRepository.class
+com/game/store/app/controller/CategoriaController.class
+com/game/store/app/model/Categoria.class
+com/game/store/app/controller/ProdutoController.class
+com/game/store/app/AppApplication.class
